@@ -1,8 +1,8 @@
 #ifndef UNDERLYING_FUNCTIONALITIES_HPP
 #define UNDERLYING_FUNCTIONALITIES_HPP
 
-#include <crtp.hpp>
-#include <named_type_impl.hpp>
+#include <fluent\crtp.hpp>
+#include <fluent\named_type_impl.hpp>
 
 #include <functional>
 #include <iostream>
