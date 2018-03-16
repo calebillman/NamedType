@@ -2,6 +2,7 @@
 #define named_type_impl_h
 
 #include <type_traits>
+#include <utility>
 
 namespace fluent
 {
